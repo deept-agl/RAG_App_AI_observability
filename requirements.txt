@@ -1,0 +1,6 @@
+setuptools<70
+snowflake-ml-python
+snowflake
+trulens-core
+trulens-providers-cortex
+trulens-connectors-snowflake
