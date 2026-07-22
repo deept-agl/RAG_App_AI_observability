@@ -1,0 +1,9 @@
+definition_version: 2
+entities:
+  streamlit_app:
+    type: streamlit
+    main_file: 03_STREAMLIT_APP.py
+    artifacts:
+      - pyproject.toml
+      - 03_STREAMLIT_APP.py
+      - .streamlit/config.toml
