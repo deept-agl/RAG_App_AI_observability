@@ -2,6 +2,8 @@
 
 Build an agentic RAG application in Snowflake, evaluate its quality, and use TruLens to observe and improve it before production.
 
+![CProject Arch](arch_diag1.png)
+
 ## Project Goal
 
 A working AI application is not automatically production ready.
@@ -223,10 +225,10 @@ The goal is to understand and improve an AI application before taking it to prod
 ## Video Series
 
 **Part 1:** Build the Agentic Application  
-YouTube: `[ADD PART 1 LINK]`
+YouTube: `https://youtu.be/jNx0AeCX_8U`
 
 **Part 2:** AI Observability with TruLens  
-YouTube: `[ADD PART 2 LINK]`
+YouTube: `https://youtu.be/n8C5ZeQs7M4`
 
 ---
 
